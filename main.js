@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoicmFzYWd5LXB1YmxpYyIsImEiOiJjaXpxbmZnczYwMDE0MzNueWZ6azlkd3cyIn0.JP4-DTHPeFDz0aE1oQbIYg';
+mapboxgl.accessToken = 'pk.eyJ1Ijoic2hpdmFuZ2ktdCIsImEiOiJjamR5aXA3YzkwenozMzNvNnF5MjhzdjF6In0.GpaDJ7tHYevNZkTt533Swg';
 
 var chapters = {
     'part-1': {
@@ -32,7 +32,7 @@ var map;
 window.onload = function() {
     map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/rasagy-public/cjdyjowlk8yv42snnhqwpi648',
+        style: 'mapbox://styles/shivangi-t/cjdzwcem3a8dv2smonqw0985u',
         center: [82.8, 23.88],
         zoom: 4,
         bearing: 0,
