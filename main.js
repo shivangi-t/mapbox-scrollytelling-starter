@@ -1,5 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1Ijoic2hpdmFuZ2ktdCIsImEiOiJjamR5aXA3YzkwenozMzNvNnF5MjhzdjF6In0.GpaDJ7tHYevNZkTt533Swg
-';
+mapboxgl.accessToken = 'pk.eyJ1Ijoic2hpdmFuZ2ktdCIsImEiOiJjamR5aXA3YzkwenozMzNvNnF5MjhzdjF6In0.GpaDJ7tHYevNZkTt533Swg';
 
 var chapters = {
     'part-1': {
@@ -163,7 +162,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
 };
 
 var map;
