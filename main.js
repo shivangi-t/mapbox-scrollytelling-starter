@@ -25,7 +25,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-5': {
         center: [78.46667,17.36667],
         zoom: 10,
@@ -43,7 +43,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-8': {
         center: [88.33778,22.54111],
         zoom: 10,
@@ -61,7 +61,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-11': {
         center: [75.86667,26.91667],
         zoom: 10,
@@ -79,7 +79,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-14': {
         center: [79.08306,21.15389],
         zoom: 10,
@@ -97,7 +97,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-17': {
         center: [72.97,19.2],
         zoom: 10,
@@ -115,7 +115,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-20': {
         center: [85.14139,25.61],
         zoom: 11.1,
@@ -127,7 +127,7 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-22': {
         center: [77.41667,28.66667],
         zoom: 10,
@@ -145,19 +145,19 @@ var chapters = {
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-25': {
         center: [78.02,27.18],
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-26': {
         center: [78.11939,9.91966],
         zoom: 4,
         bearing: 0,
         pitch: 0,
-    }
+    },
     'part-27': {
         center: [82.8, 23.88],
         zoom: 4,
