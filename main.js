@@ -8,7 +8,7 @@ var chapters = {
         pitch: 0,
     },
     'part-2': {
-        center: [77.1016, 28.6375],
+        center: [72.83333,18.96667],
         zoom: 10,
         bearing: 0,
         pitch: 0,
@@ -20,6 +20,144 @@ var chapters = {
         pitch: 52,
     },
     'part-4': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-5': {
+        center: [72.83333,18.96667],
+        zoom: 10,
+        bearing: 0,
+        pitch: 0,
+    },
+    'part-6': {
+        center: [72.8561, 19.0022],
+        zoom: 11.1,
+        bearing: 0,
+        pitch: 52,
+    },
+    'part-7': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-8': {
+        center: [72.83333,18.96667],
+        zoom: 10,
+        bearing: 0,
+        pitch: 0,
+    },
+    'part-9': {
+        center: [72.8561, 19.0022],
+        zoom: 11.1,
+        bearing: 0,
+        pitch: 52,
+    },
+    'part-10': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-11': {
+        center: [72.83333,18.96667],
+        zoom: 10,
+        bearing: 0,
+        pitch: 0,
+    },
+    'part-12': {
+        center: [72.8561, 19.0022],
+        zoom: 11.1,
+        bearing: 0,
+        pitch: 52,
+    },
+    'part-13': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-14': {
+        center: [72.83333,18.96667],
+        zoom: 10,
+        bearing: 0,
+        pitch: 0,
+    },
+    'part-15': {
+        center: [72.8561, 19.0022],
+        zoom: 11.1,
+        bearing: 0,
+        pitch: 52,
+    },
+    'part-16': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-17': {
+        center: [72.83333,18.96667],
+        zoom: 10,
+        bearing: 0,
+        pitch: 0,
+    },
+    'part-18': {
+        center: [72.8561, 19.0022],
+        zoom: 11.1,
+        bearing: 0,
+        pitch: 52,
+    },
+    'part-19': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-20': {
+        center: [72.8561, 19.0022],
+        zoom: 11.1,
+        bearing: 0,
+        pitch: 52,
+    },
+    'part-21': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-22': {
+        center: [72.83333,18.96667],
+        zoom: 10,
+        bearing: 0,
+        pitch: 0,
+    },
+    'part-23': {
+        center: [72.8561, 19.0022],
+        zoom: 11.1,
+        bearing: 0,
+        pitch: 52,
+    },
+    'part-24': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-25': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-26': {
+        center: [82.8, 23.88],
+        zoom: 4,
+        bearing: 0,
+        pitch: 0,
+    }
+    'part-27': {
         center: [82.8, 23.88],
         zoom: 4,
         bearing: 0,
