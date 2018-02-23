@@ -14,49 +14,49 @@ var chapters = {
         pitch: 0,
     },
     'part-3': {
-        center: [72.8561, 19.0022],
+        center: [77.123767,28.653458],
         zoom: 11.1,
         bearing: 0,
         pitch: 52,
     },
     'part-4': {
-        center: [82.8, 23.88],
+        center: [77.59796,12.96991],
         zoom: 4,
         bearing: 0,
         pitch: 0,
     }
     'part-5': {
-        center: [72.83333,18.96667],
+        center: [78.46667,17.36667],
         zoom: 10,
         bearing: 0,
         pitch: 0,
     },
     'part-6': {
-        center: [72.8561, 19.0022],
+        center: [72.58,23.03],
         zoom: 11.1,
         bearing: 0,
         pitch: 52,
     },
     'part-7': {
-        center: [82.8, 23.88],
+        center: [80.27,13.09],
         zoom: 4,
         bearing: 0,
         pitch: 0,
     }
     'part-8': {
-        center: [72.83333,18.96667],
+        center: [88.33778,22.54111],
         zoom: 10,
         bearing: 0,
         pitch: 0,
     },
     'part-9': {
-        center: [72.8561, 19.0022],
+        center: [72.83,21.17],
         zoom: 11.1,
         bearing: 0,
         pitch: 52,
     },
     'part-10': {
-        center: [82.8, 23.88],
+        center: [73.84778,18.52361],
         zoom: 4,
         bearing: 0,
         pitch: 0,
