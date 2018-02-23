@@ -181,7 +181,7 @@ window.onload = function() {
 // On every scroll event, check which element is on screen
 window.onscroll = function() {
     var chapterNames = Object.keys(chapters);
-    console.log(chapterNames);
+    //console.log(chapterNames);
     for (var i = 0; i < chapterNames.length; i++) {
         var chapterName = chapterNames[i];
         if (isElementOnScreen(chapterName)) {
